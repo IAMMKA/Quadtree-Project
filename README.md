@@ -7,7 +7,7 @@ If the number of objects in the node to which the object is added exceeds the al
 
 <b>Design Patterns</b>
 
-Composite Singelton Observer Adapter Builder Factory
+Composite Singelton Builder
 
 
 <b>Conclusion</b>
